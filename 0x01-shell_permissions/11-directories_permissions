@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 744 *
+sudo find . -type d -print0 | xargs -0 sudo chmod a+x
