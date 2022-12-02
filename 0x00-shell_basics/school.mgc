@@ -1,2 +1,2 @@
-0 find SCHOOL 0x00-shell_basics "school"
-!:mime text/x-School
+#!/bin/bash
+!:mime School
